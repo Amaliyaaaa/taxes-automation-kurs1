@@ -1,0 +1,26 @@
+C:\Users\iamal\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\iamal\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\iamal\source\repos\kursovaya\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.AssemblyReference.cache
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Form1.resources
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.pdb
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Form2.resources
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Form3.resources
+C:\Users\iamal\source\repos\kursovaya\kursovaya\obj\Debug\kursovaya.Form4.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.AssemblyReference.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.Form1.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.Form2.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.Form3.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.Form4.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Debug\kursovaya.pdb

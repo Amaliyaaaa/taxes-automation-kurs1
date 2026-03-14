@@ -1,0 +1,13 @@
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Release\kursovaya.exe.config
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Release\kursovaya.exe
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\bin\Release\kursovaya.pdb
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.csproj.AssemblyReference.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.Form1.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.Form2.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.Form3.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.Form4.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.Properties.Resources.resources
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.csproj.GenerateResource.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.exe
+C:\Users\iamal\OneDrive\Документы\кубгау\1 курс\технологии программирования\курсовая\kursovaya\kursovaya\obj\Release\kursovaya.pdb
